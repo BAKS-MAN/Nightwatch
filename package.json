@@ -1,0 +1,22 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no nightwatch/tests specified\\\\\\\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^3.0.1",
+    "@types/nightwatch": "^2.3.24",
+    "chromedriver": "^114.0.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "prettier": "^3.0.0"
+  }
+}

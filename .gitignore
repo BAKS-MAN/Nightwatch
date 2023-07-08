@@ -1,0 +1,19 @@
+/.idea/
+/.vs/
+/.vscode/
+logs/
+
+#Nightwatch
+tests_output/
+dist
+
+# Dependency directories
+node_modules
+package-lock.json
+
+# For mac users
+*.DS_Store
+
+# ignore env configs
+/.env*
+
